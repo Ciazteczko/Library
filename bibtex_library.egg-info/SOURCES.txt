@@ -3,3 +3,8 @@ bibtex_library.egg-info/PKG-INFO
 bibtex_library.egg-info/SOURCES.txt
 bibtex_library.egg-info/dependency_links.txt
 bibtex_library.egg-info/top_level.txt
+library/__init__.py
+library/article.py
+library/book.py
+library/mics.py
+library/unpublished.py
