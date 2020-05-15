@@ -1,0 +1,8 @@
+setup.py
+axon_library.egg-info/PKG-INFO
+axon_library.egg-info/SOURCES.txt
+axon_library.egg-info/dependency_links.txt
+axon_library.egg-info/top_level.txt
+biblioteka/__init__.py
+biblioteka/bibtex.py
+biblioteka/converter.py

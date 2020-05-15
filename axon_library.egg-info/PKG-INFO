@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: axon-library
+Version: 1.0
+Summary: Python package used to save axon request results in libtex format
+Home-page: https://git.e-science.pl/lhandschuh241402_dpp/lhandschuh_python_pip
+Author: Lukasz Handschuh
+Author-email: 241402@student.pwr.edu.pl
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
